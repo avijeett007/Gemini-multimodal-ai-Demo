@@ -5,6 +5,12 @@
 Watch the DeepDive Crash Course on Our YouTube Channel:
 
 <p align="center">
+    <a href="https://www.youtube.com/watch?v=Kica2vBODgU">
+        <img src="https://img.youtube.com/vi/Kica2vBODgU/0.jpg" alt="Ultravox AI Voice Assistant Tutorial" width="560" height="315">
+    </a>
+</p>
+
+<p align="center">
     <a href="https://www.youtube.com/channel/UCxgkN3luQgLQOd_L7tbOdhQ?sub_confirmation=1">
         <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe">
     </a>
