@@ -19,6 +19,7 @@ This project demonstrates a powerful web console that combines live API interact
 - File system integration
 - WebSocket-based communication
 
+
 ## 🛠️ Key Features
 
 - **AI-Powered Code Modifications**: Modify any code file by sharing your screen and describing changes
@@ -96,6 +97,9 @@ npm start
 3. Provide the absolute path to the file
 4. Describe the changes you want
 5. AI will fetch, modify, and update the file
+6. Use the following project as a pet project if you want to test.
+
+
 
 ## 🛡️ Error Handling
 
